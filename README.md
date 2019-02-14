@@ -1,14 +1,4 @@
----
-toc: true
-status: public
-title: icode代码生成平台
-tags: 开源 平台
-categories: 我的开源
-type: tags
-date: 2018-12-18 15:13:24
-updated: 2018-12-18 15:13:24
----
-# xtp权限系统
+# ICode代码生成平台
 ## 演示站点
 - http://139.196.125.197/icode
 - 用户名:admin 密码:123456
