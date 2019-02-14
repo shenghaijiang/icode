@@ -1,0 +1,44 @@
+${AnsiColor.BRIGHT_YELLOW}
+
+${AnsiColor.BRIGHT_CYAN}
+
+                                                               .--,       .--,
+                                                              ( (  \.---./  ) )
+                                                               '.__/o   o\__.'
+                                                                  {=  ^  =}
+                                                                   >  -  <
+                                                                  /       \
+                                                                 //       \\
+                                                                //|   .   |\\
+                                                                "'\       /'"_.-~^`'-.
+                                                                   \  _  /--'         `
+                                                                 ___)( )(___
+                                                                (((__) (__)))    高山仰止,景行行止.虽不能至,心向往之。
+
+${AnsiColor.BLUE}${AnsiStyle.BOLD}
+
+
+          Dan     Ran    ${spring-boot.version}
+
+          Application Version: ${application.version}${application.formatted-version}
+          Spring Boot Version: ${spring-boot.version}${spring-boot.formatted-version}
+
+
+                                                                                                            ████████████
+                                                                                                              ██      ◥██◤    ██
+                                                                                                          ◢███        ◥◤      ██◣
+                                                                                                          ▊▎██◣              ◢█▊ ▊
+                                                                                                          ▊▎██◤  ●    ●    ◥█▊ ▊
+                                                                                                          ▊  ██                  █▊ ▊
+                                                                                                          ◥▇██  ▊           ▊ █▇◤
+                                                                                                              ██  ◥▆▄▄▄▆◤  █▊      ◢▇▇◣
+                                                                                                        ◢██◥◥▆▅▄▂▂▂▄▅▆███◣  ▊◢╳█
+                                                                                                        █╳                              ╳█◥◤◢◤
+                                                                                                         █◣      ⊕          ⊕        ◢█◤ ◢◤
+                                                                                                            ▊          █ ◢◤        ╳▊╳ ◢◤
+                                                                                                            ▊                         ▊╳◢◤
+                                                                                                            ▊         ⊕  ⊕        █▇◤
+                                                                                                          ◢█▇▆▆▆▅▅▅▆▆▆▇█◣
+                                                                                                          ▊  ▂  ▊            ▊  ▂  ▊
+                                                                                                          ◥▆▆▆◤            ◥▆▆▆
+

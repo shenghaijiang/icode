@@ -1,0 +1,6 @@
+var settings = {
+  SERVER_HOST: '119.37.194.4',
+  SERVER_PORT: 5555,
+  XTP_HOST: '119.37.194.4',
+  XTP_PORT: 5555,
+}
